@@ -1,7 +1,5 @@
 # Web Design - Cat Two
 
-**Description**:  
-
 ## Table of Contents
 - [1. Introduction](#1-introduction)
 - [2. What is GitHub?](#2-what-is-github)
