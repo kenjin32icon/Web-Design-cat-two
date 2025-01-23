@@ -1,87 +1,75 @@
 # Web Design - Cat Two
 
 **Description**:  
-This repository contains the code for a captivating web design project featuring cat-themed designs and layouts. The project showcases modern web design techniques, responsive layouts, and interactive elements that enhance user experience.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [1. Introduction](#1-introduction)
+- [2. What is GitHub?](#2-what-is-github)
+- [3. What is a GitHub repository?](#3-what-is-a-github-repository)
+- [4. Team Members](#4-team-members)
+- [5. Technologies Used](#5-technologies-used)
+- [6. Contributing](#6-contributing)
+- [7. Contributors Project Screenshots](#7-contributors-project-screenshots)
+- [8. How to Navigate](#8-how-to-navigate)
+- [9. License](#9-license)
+- [10. Contact](#10-contact)
+- [11. Notes](#11-notes)
 
-## Introduction
-The **Web Design - Cat Two** project was created to explore creative ways to showcase cat-related content through web design. It serves as a portfolio piece demonstrating various design principles such as layout, typography, and user interaction.
+---
 
-## Features
-- Responsive design for optimal viewing on all devices
-- Interactive elements enhancing user engagement
-- Clean and modern visuals with cat-themed graphics
-- Easy navigation between different sections
+## 1. Introduction
+This is a GitHub repository for the group members of the Cat Two web design class.
 
-## Installation
-To set up this project locally, follow these steps:
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/kenjin32icon/Web-Design-cat-two.git
-   ```
-2. Navigate to the project directory:  
-   ```bash
-   cd Web-Design-cat-two
-   ```
-3. Open the `index.html` file in your web browser to view the project.
+## 2. What is GitHub?
+GitHub is a platform for storing, sharing, and collaborating on software projects using Git for version control. It enhances teamwork and makes it easier for developers to collaborate on coding projects.
 
-## Usage
-- Simply open the `index.html` file in a web browser to view the design.
-- Interact with different sections to explore the features of the website.
+## 3. What is a GitHub repository?
+A GitHub repository is a storage space on GitHub that allows developers to manage, track, and collaborate on projects using version control.
 
+## 4. Team Members
+- **Members:**
+   1. Lewis
+   2. Bexie
+   3. Lucy
 
-## Technologies Used
+## 5. Technologies Used
 - HTML
 - CSS
 
+## 6. Contributing
+The contributors were:
+1. **Lewis**, code sample:
+   - **Elon Musk Tribute Page**, code links
+      - HTML: [html link](https://github.com/kenjin32icon/Web-Design-cat-two/blob/f4e5cd1f32037f09eb7c4524f06d9af01ce179c5/WEB%20DESIGN%20CAT%202%20/Lewis%20/First%20draft%20/Elon%20musk%20tribute%20page/index.html)
+      - CSS: [css link](https://github.com/kenjin32icon/Web-Design-cat-two/blob/f4e5cd1f32037f09eb7c4524f06d9af01ce179c5/WEB%20DESIGN%20CAT%202%20/Lewis%20/First%20draft%20/Elon%20musk%20tribute%20page/styles.css)
+      - [Combined HTML version](https://github.com/kenjin32icon/Web-Design-cat-two/blob/f4e5cd1f32037f09eb7c4524f06d9af01ce179c5/WEB%20DESIGN%20CAT%202%20/Lewis%20/First%20draft%20/Elon%20musk%20tribute%20page%20combined%20code/index.html)
+2. **Bexie**
+3. **Lucy**
 
-## Contributing
-The contributers were 
-   1. Lewis, code sample [https://github.com/kenjin32icon/Web-Design-cat-two/blob/21ecce93de89ca675db14b39175b1288f2c85ca0/tod.html]
-   2. Bexie
-   3. Lucy
-      Conttibuters screen shots.
-      
-1. Lewis
+## 7. Contributors Project Screenshots
+1. **Lewis**
+   - ![Top side Screenshot of the website](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png)
+   - ![Middle section with the bottom part Screenshot](https://github.com/kenjin32icon/Web-Design-cat-two/blob/f4e5cd1f32037f09eb7c4524f06d9af01ce179c5/WEB%20DESIGN%20CAT%202%20/Lewis%20/First%20draft%20/Tribute%20page%20images/Screenshot%20at%202025-01-23%2020-58-32.png)
+2. **Bexie**
+3. **Lucy**
 
-Top side Screenshot of the website ([Screenshot at 2025-01-23 20-57-25.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png))  
+## 8. How to Navigate
+- Start by reading the README file at the beginning of the page.
+- There are links to each main section.
+- Click the links to direct you to the corresponding item of your choice.
 
-Middle section with the bottom part Screenshot ([Screenshot at 2025-01-23 20-58-32.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-58-32.png)) 
-
-2. Bexie
-
-3. Lucy
-
-To contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:  
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Create a Pull Request.
-
-## License
+## 9. License
 This project is licensed under the MIT License.
 
-## Contact
+## 10. Contact
 For any inquiries or questions, feel free to contact me:
-- Email:- kariukilewis04@gmail.com
+- Email: kariukilewis04@gmail.com
 - GitHub: [kenjin32icon](https://github.com/kenjin32icon)
+
+## 11. Notes
+This repository is under construction, so be sure to look out for upcoming changes. 
+
+**Peace out,**  
+Kenji32
+
+---
