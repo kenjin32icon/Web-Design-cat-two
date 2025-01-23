@@ -54,9 +54,9 @@ The contributers were
       
 1. Lewis
 
-![Top side Screenshot of the website]([Screenshot at 2025-01-23 20-57-25.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png))  
+Top side Screenshot of the website ([Screenshot at 2025-01-23 20-57-25.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png))  
 
-![Middle section with the bottom part Screenshot]([Screenshot at 2025-01-23 20-58-32.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-58-32.png)) 
+Middle section with the bottom part Screenshot ([Screenshot at 2025-01-23 20-58-32.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-58-32.png)) 
 
 2. Bexie
 
