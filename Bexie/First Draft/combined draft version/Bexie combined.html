@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Decor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Italianno&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+            text-decoration: none;
+            padding: 0px;
+            margin: 0%;
+            font-family: "Inter", sans-serif;
+        }
+        .navbar {
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        body {
+            background-color:#e7e9e6;
+        }
+        .logo {
+            width: 50px;
+            height:auto;
+        }
+        .navdiv {
+            display: flex;
+            align-items: center;
+            justify-content:space-between;
+        }
+        .navlinks {
+            width:350px;
+            background-color: rgba(255, 255, 255, 0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 59px;
+            border-radius: 99px;
+        }
+        .navlinks ul {
+            display: flex;
+            gap: 20px;
+        }
+        .navlinks ul li {
+            list-style: none;
+            display: inline-block;
+        }
+        .navlinks ul li a {
+            font-size: 16px;
+            color:black;
+        }
+        .content {
+            width: 90%;
+            margin: auto;
+            margin-top: 40px;
+        }
+        button {
+            color: black;
+            font-size: 20px;
+            border-radius: 10px;
+            padding: 5px;
+            width: 99px;
+            border-color:black;
+        }
+        .description button {
+            margin-top: 80px;
+            width: 200px;
+            height: 40px;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 30px 10px 10px;
+            align-items: center;
+        }
+        .description h1 {
+            font-family: "Italianno", cursive;
+            font-size: 70px;
+            font-weight: 400;
+        }
+        .image {
+            width: 401px;
+            height:400px;
+        }
+        .image img {
+            width: 100%;
+            height: 100%;
+            border-radius: 25px;
+        }
+        .section1 {
+            width: 90%;
+            margin: auto;
+            margin-top: 50px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .description {
+            width:500px;
+        }
+        .section2 {
+            margin-top: 60px;
+            margin-bottom: 100px;
+        }
+        .items {
+            display: flex;
+            gap: 27px;
+        }
+        .item {
+            width: 380px;
+            height: 321px;
+        }
+        .item h3 {
+            text-align: center;
+            font-size: 20px;
+        }
+        .item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 25px;
+        }
+        .section2 h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-family: "Comfortaa", sans-serif;
+        }
+        .footer {
+            background-color: #b8b8b8;
+            width: 100%;
+            height: auto;
+            justify-content: center;
+            display: flex;
+        }
+        .footer-logo {
+            width: 100px;
+            height: 64px;
+        }
+        .footer-logo img {
+            width: 100%;
+            height: 100%;
+        }
+        .footercontent {
+            display: flex;
+            gap: 57px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+        }
+        .options ul {
+            display: block;
+            list-style-type: none;
+        }
+        .subscribe {
+            background-color:white;
+            width: 374px;
+            border-radius: 99px;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 27px;
+        }
+        .subscribe input {
+            border: none;
+            padding: 10px;
+            background-color: transparent;
+        }
+        .subscribe-btn {
+            border-radius: 0 25px 25px 0;
+            border:none;
+            background-color: #6d6d6d;
+            color: #f3efef;
+        }
+        .item-title h3 {
+            font-family: "Comfortaa", sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <nav class="navbar">
+            <div class="navdiv">
+                <div class="logo">
+                    <img src="images/50a34fa8-8866-4734-a134-11220f5150f2.png" alt="logo.jpeg" class="logo">
+                </div>
+                <div class="navlinks">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Store</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Cart</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <button>Sign In</button>
+                </div>
+            </div>
+        </nav>
+        <div class="section1">
+            <div class="description">
+                <h1>Discover Our Collection</h1>
+                <p>Our curated collection of furniture, home accessories and decor pieces are designed to inspire and help you create a space that you will love to live in.</p>
+                <button>
+                    <span>Explore Now</span>
+                    <i class="fa-solid fa-angle-right"></i>
+                </button>
+            </div>
+            <div class="image">
+                <img src="images/Nordic Vase.jpeg">
+            </div>
+        </div>
+        <div class="section2">
+            <h1>Featured Collections</h1>
+            <div class="items">
+                <div class="item">
+                    <img src="images/3D wall decor.jpeg" alt="">
+                    <h3>3D wall decor</h3>
+                </div>
+                <div class="item">
+                    <img src="images/black and white shelve.jpeg" alt="">
+                    <h3>black and white shelve</h3>
+                </div>
+                <div class="item">
+                    <img src="images/floating shelves.jpeg" alt="">
+                    <h3>floating shelves</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footercontent">
+            <div class="footer-item">
+                <div class="footer-logo">
+                    <img src="images/50a34fa8-8866-4734-a134-11220f5150f2.png" alt="">
+                </div>
+                <div class="socials">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <i class="fa-brands fa-instagram"></i>
+                    <i class="fa-brands fa-x-twitter"></i>
+                    <i class="fa-brands fa-facebook"></i>
+                </div>
+            </div>
+            <div class="footer-item">
+                <div class="item-title">
+                    <h3>Quick Links</h3>
+                </div>
+                <div class="options">
+                    <ul>
+                        <li>Shop</li>
+                        <li>Categories</li>
+                        <li>Inventory</li>
+                        <li>Offers & Discounts</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-item">
+                <div class="item-title">
+                    <h3>Contacts</h3>
+                </div>
+                <div class="options">
+                    <ul>
+                        <li>Phone: 0722890506</li>
+                        <li>Email: homedecor@yahooo.com</li>
+                        <li>Address: Kabarak, Nakuru</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-item">
+                <div class="item-title">
+                    <h3>Newsletter Subscription</h3>
+                </div>
+                <div class="subscribe">
+                    <input type="text" placeholder="Enter your email">
+                    <button class="subscribe-btn">subscribe</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
