@@ -39,13 +39,6 @@ To set up this project locally, follow these steps:
 - Simply open the `index.html` file in a web browser to view the design.
 - Interact with different sections to explore the features of the website.
 
-## Screenshots
-Include screenshots of your website. Here are placeholders for you to replace with your actual image paths:
-
-![Top side Screenshot of the website]([Screenshot at 2025-01-23 20-57-25.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png))  
-
-![Middle section with the bottom part Screenshot]([Screenshot at 2025-01-23 20-58-32.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-58-32.png))  
-
 
 ## Technologies Used
 - HTML
@@ -53,6 +46,22 @@ Include screenshots of your website. Here are placeholders for you to replace wi
 
 
 ## Contributing
+The contributers were 
+   1. Lewis, code sample [https://github.com/kenjin32icon/Web-Design-cat-two/blob/21ecce93de89ca675db14b39175b1288f2c85ca0/tod.html]
+   2. Bexie
+   3. Lucy
+      Conttibuters screen shots.
+      
+1. Lewis
+
+![Top side Screenshot of the website]([Screenshot at 2025-01-23 20-57-25.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-57-25.png))  
+
+![Middle section with the bottom part Screenshot]([Screenshot at 2025-01-23 20-58-32.png](https://github.com/kenjin32icon/Web-Design-cat-two/blob/499142fa2bb006db525248b72074cc418700369a/Screenshot%20at%202025-01-23%2020-58-32.png)) 
+
+2. Bexie
+
+3. Lucy
+
 To contribute to this project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch:  
