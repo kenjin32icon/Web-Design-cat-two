@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Design Cat 2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Roboto', sans-serif;
+            color: #fff;
+            background-color: rgb(251, 216, 194); /* Set background color */
+        }
+
+        /* Fullscreen background image */
+        .header {
+            background-image: url('https://i.pinimg.com/236x/1e/93/00/1e9300879d43f102c3a90e0e1243b300.jpg'); /* Replace with your image URL */
+            background-size: cover; /* Cover the entire header */
+            background-position: center;
+            background-repeat: no-repeat; /* Prevent the image from repeating */
+            height: 100vh; /* Full height */
+            display: flex;
+            flex-direction: column; /* Stack children vertically */
+            justify-content: center; /* Center items vertically */
+            position: relative;
+        }
+
+        /* Overlay for text readability */
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0; /* Extend to the bottom */
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+            display: flex;
+            align-items: top; /* Center content vertically */
+            justify-content: center; /* Center content horizontally */
+            text-align: top;
+        }
+
+        h1 {
+            font-size: 4em; /* Large header text */
+            margin: 0;
+        }
+
+        /* Body content */
+        .content {
+            position: absolute;
+            top: 50%; /* Center vertically */
+            left: 50px; /* Align to the left */
+            transform: translateY(-50%); /* Adjust for true vertical centering */
+            max-width: 500px; /* Limit width */
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            padding: 80px; /* Increased padding for more height */
+            border-radius: 20px; /* Adjusted border radius */
+            height: 70%; /* Set a specific height */
+            box-sizing: border-box; /* Include padding in height calculation */
+            display: flex;
+            flex-direction: column; /* Stack children vertically */
+            justify-content: space-between; /* Space out children */
+        }
+
+        .content h2 {
+            font-size: 2.5em; /* Enlarged subheader */
+            margin-bottom: 10px;
+        }
+
+        .content p {
+            font-size: 1.5em; /* Enlarged paragraph text */
+            margin: 5px 0; /* Spacing between lines */
+        }
+
+        /* Next section button */
+        .next-section-button {
+            position: absolute;
+            bottom: 20px; /* Position at the bottom */
+            left: 50%;
+            transform: translateX(-50%); /* Center horizontally */
+            padding: 15px 30px;
+            background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background */
+            color: #ff5722; /* Accent color */
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.5em; /* Enlarged button text */
+            border-radius: 5px; /* Rounded corners */
+            transition: transform 0.3s ease, background-color 0.3s ease; /* Transition effects */
+        }
+
+        .next-section-button:hover {
+            transform: scale(1.1); /* Enlarge on hover */
+            background-color: rgba(255, 255, 255, 0.8); /* Change background color on hover */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="overlay">
+            <h1>WEB DESIGN cat 2</h1>
+        </div>
+        <a href="#next-section" class="next-section-button">Click here to go to the:- Technical University Tribute Page</a>
+    </div>
+
+    <div id="next-section" style="height: 100vh; background-color: #f0f0f0;">
+        <h1>Next Section</h1>
+        <p>This is the next section of the page.</p>
+    </div>
+
+    <div class="content">
+        <h2>Group Members:</h2>
+        <p>1. Lewis Kariuki<br>- AIIM/00477/2021</p>
+        <p>2. Beatrice Kambo <br>- AIIM/00761/2022</p>
+        <p>3. Lucy Wanjeri <br>- AIIM/00753/2022</p>
+    </div>
+
+</body>
+</html>
